@@ -1,4 +1,3 @@
-//#pragma clang loop unroll(enable)
 #include <iostream>
 #include <limits.h>
 #include <unistd.h>
